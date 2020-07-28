@@ -1,9 +1,9 @@
 # learnPHP
-Here you learn php. 
+Hello there. Welcome to learning php the Dylan way.
 Let's start with an echo script.
 
 <?php
-// Hello there. Welcome to learning php the Dylan way.
+// 
 
 // Step 1
 // Hello World of course.
