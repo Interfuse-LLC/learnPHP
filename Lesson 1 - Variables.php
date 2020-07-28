@@ -1,4 +1,6 @@
 <?php
+//Every php file must begin with the bracket question mark php like I have at the top.
+
 // Step 1
 // Hello World of course.
 
@@ -71,11 +73,21 @@ Example:
 
 $header = '<h1>Here is the title.</h1>';
 $middle = '<p>Here is some content that talks about stuff</p>';
-$footer = 'OOOOHHHHH YYEEEEEAAHHHH';
-
-$decider = 20;
+$footer = '<strong>OOOOHHHHH YYEEEEEAAHHHH</strong>';
 
 echo($header);
 echo($header);
 echo($footer);
 
+/* Now you try it. 
+Make four html elements.
+echo the middle two elements four times.
+echo the others wherever you want.
+*/
+
+
+
+
+
+
+//End of Lesson 1. Proceed to Lesson 2
